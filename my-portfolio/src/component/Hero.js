@@ -13,10 +13,10 @@ export default function Hero(){
             <p className='text-2xl'>{config.line1}</p>
             </h1>
          <div className='flex py-10'>
-            <a  heref="#" className='pr-5 hover:text-white'><AiOutlineTwitter size={40} /></a>
-            <a target='_blank' heref= 'https://www.linkedin.com/in/rohith-a-6a254120a/' className='pr-5 hover:text-white'><AiOutlineLinkedin size={40} /></a>
-            <a heref="#" className='pr-5 hover:text-white'><AiOutlineFacebook size={40}/></a>
-            <a heref= 'https://www.instagram.com/rohith_ar_04?igsh=MTlyOXhnYWxpY285Zg==' className='pr-5 hover:text-white'><AiOutlineInstagram size={40}/></a>
+            <a  href="#" className='pr-5 hover:text-white'><AiOutlineTwitter size={40} /></a>
+            <a target='_blank' href= 'https://www.linkedin.com/in/rohith-a-6a254120a/' className='pr-5 hover:text-white'><AiOutlineLinkedin size={40} /></a>
+            <a href="#" className='pr-5 hover:text-white'><AiOutlineFacebook size={40}/></a>
+            <a href= 'https://www.instagram.com/rohith_ar_04?igsh=MTlyOXhnYWxpY285Zg==' className='pr-5 hover:text-white'><AiOutlineInstagram size={40}/></a>
          </div>
         
         </div>
