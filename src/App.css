@@ -14,11 +14,11 @@ header ul li{
 }
 
 .mobile-nav{
-  @apply fixed top-10 left-0 bg-gray-800 w-full h-1/4
+  @apply fixed top-10 right-0 bg-white w-28 rounded-sm h-1/4
 }
 
 .mobile-nav li {
-  @apply w-full text-center border-b-2 h-full
+  @apply w-full h-full text-center
 }
 
 .project-content{
